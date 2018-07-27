@@ -1,0 +1,33 @@
+CS5500 Managing Software Development
+
+------------------------------------------------
+Sprint 3 Group Grade Team 210:
+------------------------------------------------
+
+Functionality Expectations Achieved:
+-----------------------------------------------
+
+Sets of Test Projects (out of 6): 6
+
+Comments on sets of Test Projects: Covered required test cases
+Comments on Functionality Expectations: Statistics are provided for all user.
+
+
+Stretches Achieved:
+-----------------------------------------------
+
+(1) Stretch (small): employs more than one comparison strategy on demand. Hint: use the strategy pattern., (2) Stretch (bigger): uses more than one comparison strategy and reports the results of each method, (2) Stretch: Performs the comparison against multiple submissions., (2) Stretch: UI is fully functional for stretch expectations.
+
+Stretch (even bigger): uses more than one comparison strategy and computes an overall score using a weighted polynomial function.	Stretch (even bigger still): trains the function in six to learn the weights and uses something like Stanford's MOSS https://theory.stanford.edu/~aiken/moss/ as a performance standard.
+
+Comments: N/A
+
+
+------------------------------------------------
+Team GRADE: 100
+------------------------------------------------
+
+Extra Comments: N/A
+
+
+Grader: Praveen
